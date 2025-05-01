@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: smartstocktracker
+    env: python
+    buildCommand: ""
+    startCommand: streamlit run app.py
+    branch: main
+    region: oregon
