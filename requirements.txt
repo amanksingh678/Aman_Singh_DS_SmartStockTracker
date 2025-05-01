@@ -1,0 +1,13 @@
+Flask==3.0.2
+flask-assets==2.1.0
+pandas==2.2.1
+Pillow==10.2.0
+plotly==5.19.0
+qrcode==7.4.2
+streamlit==1.31.1
+twilio==9.0.0
+bcrypt==4.1.2
+SQLAlchemy==2.0.27
+Werkzeug==3.0.1
+gunicorn==21.2.0
+python-dotenv==1.0.1
